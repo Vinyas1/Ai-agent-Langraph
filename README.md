@@ -118,7 +118,3 @@ ai-agent-e2b/
   the gap on retry — a great demo of the fail → feedback → fix loop.
 - Each E2B sandbox run costs a fraction of a cent — the free $100 credit
   will cover thousands of runs for a portfolio demo.
-
-## License
-
-MIT
