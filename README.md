@@ -1,4 +1,4 @@
-# 🔬 AI Data Scientist & Code Debugger Agent (E2B)
+# 🔬ML model & Code Debugger Agent (E2B)
 
 A multi-agent AI system with **two modes**, sandboxed via **E2B** (cloud, no local Docker needed):
 
