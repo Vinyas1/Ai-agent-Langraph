@@ -116,5 +116,3 @@ ai-agent-e2b/
 - **debug_fix**: The bundled buggy_code.py has 5 deliberate bugs across 3
   functions. Watch the agent fix most of them on the first try, then close
   the gap on retry — a great demo of the fail → feedback → fix loop.
-- Each E2B sandbox run costs a fraction of a cent — the free $100 credit
-  will cover thousands of runs for a portfolio demo.
