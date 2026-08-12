@@ -27,7 +27,7 @@ Explorer → Coder → Executor (E2B sandbox) → Evaluator → retry or done
 ### 1. Install
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd ai-agent-e2b
 pip install -r requirements.txt
 ```
